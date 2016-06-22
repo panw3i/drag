@@ -1,5 +1,9 @@
 // JavaScript Document
 // 1
+// 2
+// 3
+// 4
+// 5
 
 function drag(id){
 	var obj = document.getElementById(id);
