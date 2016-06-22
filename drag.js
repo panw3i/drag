@@ -1,4 +1,5 @@
-// JavaScript Document  20160622
+// JavaScript Document
+// 1
 
 function drag(id){
 	var obj = document.getElementById(id);
