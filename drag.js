@@ -7,6 +7,7 @@
 //newbranch
 //news
 
+
 function drag(id){
 	var obj = document.getElementById(id);
 	var disX = 0;
